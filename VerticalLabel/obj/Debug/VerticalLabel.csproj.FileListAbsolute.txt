@@ -1,0 +1,11 @@
+E:\代码\Winform\VerticalLabel\VerticalLabel\bin\Debug\VerticalLabel.exe.config
+E:\代码\Winform\VerticalLabel\VerticalLabel\bin\Debug\VerticalLabel.exe
+E:\代码\Winform\VerticalLabel\VerticalLabel\bin\Debug\VerticalLabel.pdb
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.CustomVerticalLabel.resources
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.Form1.resources
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.Properties.Resources.resources
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.csproj.GenerateResource.cache
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.csproj.CoreCompileInputs.cache
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.exe
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.pdb
+E:\代码\Winform\VerticalLabel\VerticalLabel\obj\Debug\VerticalLabel.csprojAssemblyReference.cache
